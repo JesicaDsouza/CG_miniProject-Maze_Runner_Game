@@ -1,0 +1,4 @@
+In this game, the task is to read the keyboard input from the user, to move the entity/ball (representing the user) in and around the 2-D layout of a Labyrinth. The number of moves made should be measured and displayed on a real-time basis. There should be only one exit. The inputs for the movement of the ball can be taken from the keyboard keys such as Pg Up, Pg Dn, Home and End or through the up,down,right,left keys or using the specified keywords/code words.
+
+The purpose of this document is to depict the concepts of Computer Graphics through the Maze Runner game. The study of requirement specification is focused especially on its functioning. 
+Hence, it allows the developer or analyst to understand the concepts of the subject through entertainment.
